@@ -1,5 +1,5 @@
 # 💫 About Me:
-Satish Kumar is a B.Sc. student in Computer Science & Data Analytics at IIT Patna (2024–2027) with a current CGPA of 8.5+.<br>Languages: Python, JavaScript, SQL<br>Frontend: React.js, HTML, CSS, Tailwind<br>Backend & DB: Node.js, Express, MySQL, MongoDB<br>Data & Visualization: Pandas, NumPy, Matplotlib, Power BI
+I am a BS student in Computer Science & Data Analytics at IIT Patna (2024–2028) with a current CGPA of 8.5+.<br>Languages: Python, JavaScript, SQL<br>Frontend: React.js, HTML, CSS, Tailwind<br>Backend & DB: Node.js, Express, MySQL, MongoDB<br>Data & Visualization: Pandas, NumPy, Matplotlib, Power BI
 
 
 ## 🌐 Socials:
